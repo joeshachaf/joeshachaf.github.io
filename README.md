@@ -1,5 +1,4 @@
-<img width="461" height="300" alt="Joe Shachaf Linear" src="https://github.com/user-attachments/assets/cfc8a6b5-abd4-4889-9c35-bfa47cce4035" />
-
+<img width="996" height="252" alt="site-logo-with-background" src="https://github.com/user-attachments/assets/fa533d7a-b18d-4496-98fd-1464b5f84dc2" />
 
 Cybersecurity leader, consultant, mentor, and former software engineer with more than 15 years of experience across security strategy, application security, product security, and executive leadership.
 
