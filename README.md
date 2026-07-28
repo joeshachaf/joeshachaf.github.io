@@ -1,4 +1,5 @@
 <img width="180" height="160" alt="favicon-png-source - Copy" src="https://github.com/user-attachments/assets/a2c81118-4bb5-471f-83ba-ff345452cfb3" />
+
 # Joe Shachaf
 
 Cybersecurity leader, consultant, mentor, and former software engineer with more than 15 years of experience across security strategy, application security, product security, and executive leadership.
